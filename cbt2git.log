@@ -1,0 +1,7 @@
+2025-04-04 12:03:45.669513 - Received CBT.V508.FILE576.PDS from FILE576.XMI 
+2025-04-04 12:03:45.670231 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE576.PDS, moved to PDS/$$$#DATE
+2025-04-04 12:03:45.670378 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE576.PDS, moved to PDS/$$NOTE1
+2025-04-04 12:03:45.670511 - Found $XCPYDOC.txt (text/plain) in CBT.V508.FILE576.PDS, moved to PDS/$XCPYDOC
+2025-04-04 12:03:45.670644 - Found @FILE576.txt (text/plain) in CBT.V508.FILE576.PDS, moved to PDS/@FILE576
+2025-04-04 12:03:45.670771 - Found XCPY.rexx (text/plain) in CBT.V508.FILE576.PDS, moved to PDS/XCPY
+2025-04-04 12:03:45.670895 - Found XCPYPNL0.txt (text/plain) in CBT.V508.FILE576.PDS, moved to PDS/XCPYPNL0
